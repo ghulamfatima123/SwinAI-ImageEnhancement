@@ -1,5 +1,3 @@
-Got it! Here's your text in a normal chat format:  
-
 ---
 
 # SwinIR-Based Image Enhancement  
