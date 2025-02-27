@@ -34,7 +34,7 @@ python main.py
 - `main.py`: Main script for loading the model and processing images.  
 - `models/network_swinir.py`: Defines the SwinIR architecture.  
 - `input_images/`: Folder containing images to be processed.  
-- `output_images : where enhanced images are saved.  
+- output_image : where enhanced image is saved.  
 
 ## License  
 This project is distributed under the **MIT License**. Ensure compliance with the original SwinIR authors' licensing terms if using their models.  
